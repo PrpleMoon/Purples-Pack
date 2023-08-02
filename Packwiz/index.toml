@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "1eb1e37f507de7ba8def9baa27cfef161a07ba1fabc286c757ae5b1ab7fe2a2d"
+
+[[files]]
+file = "config/main-menu-credits.json"
+hash = "1eb1e37f507de7ba8def9baa27cfef161a07ba1fabc286c757ae5b1ab7fe2a2d"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
