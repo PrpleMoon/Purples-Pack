@@ -1,12 +1,104 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/inventoryprofilesnext/1.20.1/prev-villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/1.20.1/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/1.20.2/prev-villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/1.20.2/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/1.20/prev-villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/1.20/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "2264d945c4c330f9fa128fd9cd8fdd6858113d5eb0fec9b1d33adfc5fb286f02"
+
+[[files]]
+file = "config/inventoryprofilesnext/play.bettervanillabuilding.com/prev-villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/play.bettervanillabuilding.com/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "1eb1e37f507de7ba8def9baa27cfef161a07ba1fabc286c757ae5b1ab7fe2a2d"
 
 [[files]]
 file = "config/main-menu-credits.json"
 hash = "1eb1e37f507de7ba8def9baa27cfef161a07ba1fabc286c757ae5b1ab7fe2a2d"
+
+[[files]]
+file = "config/physicsmod/physics_animations_client_config.json"
+hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
+
+[[files]]
+file = "config/physicsmod/physics_blocks_client_config.json"
+hash = "f81bbd66d51ead0fae83e04bc980a57fe464619bd4b630fb999d9f7772edb354"
+
+[[files]]
+file = "config/physicsmod/physics_client_config.json"
+hash = "95d2b512368f923c4e660470b1fe21806fb72468351ec73a624c5dc171e68f82"
+
+[[files]]
+file = "config/physicsmod/physics_cloth_config.json"
+hash = "c004242898b912a2ad1a836a4e017d921c1e8660180565ce56dc4cadc027e939"
+
+[[files]]
+file = "config/physicsmod/physics_mobs_client_config.json"
+hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
+
+[[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
+
+[[files]]
+file = "config/physicsmod/physics_vines_client_config.json"
+hash = "2a219da6e82a4cfe1144a26a665b7d24c9e87caebd7ae4b206c4a7d7e5566f71"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "de0a140e9b101020001896d68bf0714c853ce212ae45b5250da43a72a5059798"
+
+[[files]]
+file = "config/smoothswapping.json"
+hash = "fb32a2238f87b730726ba02758de384eef763ffb9580de95d760fc083d3d6ca0"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "fc6a2313962f1d2a7b83ed52c4bc8ea4f2f17f98013451ee0641c654a30e40c9"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "afbd6922a97e7587bb828777e3ba1179aefd4d5f5502c0f9d4bf46c320ca7de8"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -140,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "204b3eb115e418bdad4f5f2e8ef49f0c8b8f10ad062ca10e05e1e8cde4de45ab"
+hash = "ae7289ce36007969323855d0f6c02afdce5890fb1263057eec68cdaafe455908"
 metafile = true
 
 [[files]]
@@ -536,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "58230f902f53ed49786a8656e40d12757f6a01e525e29b8992e0556948f59f77"
 metafile = true
 
 [[files]]
