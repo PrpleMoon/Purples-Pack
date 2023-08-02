@@ -93,10 +93,6 @@ file = "config/smoothswapping.json"
 hash = "fb32a2238f87b730726ba02758de384eef763ffb9580de95d760fc083d3d6ca0"
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "fc6a2313962f1d2a7b83ed52c4bc8ea4f2f17f98013451ee0641c654a30e40c9"
-
-[[files]]
 file = "config/xaerominimap_entities.json"
 hash = "afbd6922a97e7587bb828777e3ba1179aefd4d5f5502c0f9d4bf46c320ca7de8"
 
