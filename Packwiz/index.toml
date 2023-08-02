@@ -459,6 +459,11 @@ hash = "201ab0485fc28e1b4a8fb04f620bfe94e19a3495131b939b67a701068de7f325"
 metafile = true
 
 [[files]]
+file = "mods/replanter.pw.toml"
+hash = "dcc6a9918bba09c4d75d0c87883c7bde009fd553bea0d7009048b715ed01b1be"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "1b9b1cdbacfeeb97f21981d5859af497bc5db6aebeb7e320f874111787d67c3a"
 metafile = true
