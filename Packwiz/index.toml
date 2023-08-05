@@ -462,6 +462,11 @@ hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
 metafile = true
 
 [[files]]
+file = "mods/mclogs.pw.toml"
+hash = "09d740618d6ecb154d04518d0bd07f91dbcd9bbbea2946520f5b6afdbb508595"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
