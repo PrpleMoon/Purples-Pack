@@ -3,6 +3,7 @@
 A modpack for Fabric, optimized for performance and graphics enhancements
 
 [**📜 Mod list**](modlist.md)
+
 [![How to install](https://i.ibb.co/FbKTDYs/github.png)](how-to.md)
 
 ## Downloads
