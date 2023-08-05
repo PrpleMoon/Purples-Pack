@@ -502,11 +502,6 @@ hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "316ff697559d80d48c657dd7a2c4a538c8c8e383f6f157ad4f6deded7bf6016e"
-metafile = true
-
-[[files]]
 file = "mods/noxesium.pw.toml"
 hash = "081a81d7b1a1f81bfc0e4bf4269feebf8b05c7c0b84cdba2c3d873800e6f119c"
 metafile = true
