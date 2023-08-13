@@ -268,11 +268,6 @@ hash = "312270e142843c8709d2768888f6a95572ed385d4b4aaf50526f1bfa667cf23c"
 metafile = true
 
 [[files]]
-file = "mods/cupboard.pw.toml"
-hash = "10a6735b79a84353f1620b561ea9fd584140b9a32e084172e74d383875eefa39"
-metafile = true
-
-[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
 metafile = true
