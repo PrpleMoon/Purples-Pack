@@ -58,11 +58,11 @@ hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
 file = "config/physicsmod/physics_blocks_client_config.json"
-hash = "f81bbd66d51ead0fae83e04bc980a57fe464619bd4b630fb999d9f7772edb354"
+hash = "60dafd8eb750b497c7b3986727991dccd7be2ce020a4f910174c110f6c0f7c2e"
 
 [[files]]
 file = "config/physicsmod/physics_client_config.json"
-hash = "95d2b512368f923c4e660470b1fe21806fb72468351ec73a624c5dc171e68f82"
+hash = "872155a04e8f46121bafbb6cb3d6e599a979f7b5228395370846727a949e16c6"
 
 [[files]]
 file = "config/physicsmod/physics_cloth_config.json"
@@ -87,10 +87,6 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
 hash = "de0a140e9b101020001896d68bf0714c853ce212ae45b5250da43a72a5059798"
-
-[[files]]
-file = "config/smoothswapping.json"
-hash = "fb32a2238f87b730726ba02758de384eef763ffb9580de95d760fc083d3d6ca0"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -537,11 +533,6 @@ hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "3ec6010e6922154637aa19d6523853262ff1eaff9cc8eaca10d800932139ad9e"
-metafile = true
-
-[[files]]
 file = "mods/noxesium.pw.toml"
 hash = "a55f4889063e9e1fe44af534f0de2cd6354971f453cb921b5d71b4e32d5b7b8e"
 metafile = true
@@ -624,11 +615,6 @@ metafile = true
 [[files]]
 file = "mods/smoke-suppression.pw.toml"
 hash = "60e4f9661caa846f6215353fbad135485047a728a33624e07e2bf4b5318f9e1d"
-metafile = true
-
-[[files]]
-file = "mods/smooth-swapping.pw.toml"
-hash = "5a523fb19287c6ce690ed0b7986e07e7002b878d980204226c3cde04e85baa77"
 metafile = true
 
 [[files]]
