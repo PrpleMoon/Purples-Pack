@@ -608,6 +608,11 @@ hash = "60e4f9661caa846f6215353fbad135485047a728a33624e07e2bf4b5318f9e1d"
 metafile = true
 
 [[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "5a523fb19287c6ce690ed0b7986e07e7002b878d980204226c3cde04e85baa77"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
 metafile = true
