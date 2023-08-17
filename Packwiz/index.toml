@@ -213,6 +213,11 @@ hash = "ceb16d334779a1d48b7d5efb3468fc4cc8621e3f5a8813adf304785690d60767"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "39a695ac5797844dc92fda55a319996a650289e3c6bfdded9f2e7d96aaea8fe6"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
 metafile = true
@@ -635,6 +640,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/swingthrough.pw.toml"
+hash = "164bd9070d86ca231da118c32790f2144195a29a9ed1c556fcbf9714a1e633f7"
 metafile = true
 
 [[files]]
