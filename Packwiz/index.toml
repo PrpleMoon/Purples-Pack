@@ -123,6 +123,11 @@ hash = "a8f06b1711c4a7ad809d5d03c78df38bf68c68ffa9876f43cc9ba41db0de4ba2"
 metafile = true
 
 [[files]]
+file = "mods/autohud.pw.toml"
+hash = "3d56be0b268c32cedaddb6825c7101738ead0a9a2b3aa44981526b3b8278a63c"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
@@ -195,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
 metafile = true
 
 [[files]]
