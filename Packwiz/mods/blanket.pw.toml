@@ -1,13 +1,13 @@
 name = "Blanket"
-filename = "Blanket Client tweaks-1.1.4-SNAPSHOT-build.21.jar"
+filename = "blanket-client-tweaks-1.1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ce16e5244a77fea829c42616af8b978fc0964ecb"
+hash = "31a7b67a99fc21d7ae423d80018b6e8133d4e04b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4597458
+file-id = 4705246
 project-id = 565968
