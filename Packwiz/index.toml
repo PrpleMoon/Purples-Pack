@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b066bbf1fd98c8ec52dfb0d9f041572b4d1680ddf33932266ce334800891338d"
+hash = "16120b6aaa46b26671847313c31acec13b8ee8d51af9afceb15958e3e42325ed"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+hash = "44ab0af56739e5300c368e5a9c40a81e0897e8e1013e7dab746e27c6b5c3e811"
 metafile = true
 
 [[files]]
@@ -408,8 +408,13 @@ hash = "6a5b36909dddce957a6a6bb567218b9c400ed183749ff9cb12d4a42964d9bf5d"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "57ac640e29617d2188942794962edad4946dccc9c5e1544bc522a3abe8dd9490"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
-hash = "493574c6b2cb8fccb0cdf9c4385c41ce9e0f79e24320f2ed7955e819f37b7a55"
+hash = "678d1c7827d30fbe8c225e7f2b8ddc29f1dd69cced29335ee5a670477a0728a2"
 metafile = true
 
 [[files]]
@@ -424,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5aa33cf19de168fa9da2421aff76367a5b7206d9f5ffd1dbbce4bff2a47a88ef"
+hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
 metafile = true
 
 [[files]]
@@ -619,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "17831880d734824e34609ee8f6b6ca677b9dc093a6c6360f86d44b3c66bfd7db"
+hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
 metafile = true
 
 [[files]]
