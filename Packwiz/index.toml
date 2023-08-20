@@ -128,6 +128,11 @@ hash = "3d56be0b268c32cedaddb6825c7101738ead0a9a2b3aa44981526b3b8278a63c"
 metafile = true
 
 [[files]]
+file = "mods/autoswitch.pw.toml"
+hash = "9cda19f52a7714030fbf1f830520dc9a09e4a8e8349ee3f8932a534d56f66be8"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
@@ -339,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b684b16ae2594bf990c54fde25a55887ced75a9f5ca867fb221d8304595c4de2"
+hash = "3a93a5b987d89b3ce4208d1e31b3a5636fc6363ff33896f5a7ad8961df94a236"
 metafile = true
 
 [[files]]
