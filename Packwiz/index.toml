@@ -353,6 +353,11 @@ hash = "44ab0af56739e5300c368e5a9c40a81e0897e8e1013e7dab746e27c6b5c3e811"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
 metafile = true
