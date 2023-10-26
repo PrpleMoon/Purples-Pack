@@ -1,16 +1,13 @@
 name = "Purple's Pack"
 author = "PrpleMoon"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a52140a4c8ea1754412132ecd80d3aeade5d479a25eb1e18ab086d18ffc7e278"
+hash = "ae14e900a10cabef10935bb5a3ce1fd4af0dd7255a893539be17c012726307a9"
 
 [versions]
-fabric = "0.14.21"
+fabric = "0.14.24"
 minecraft = "1.20.1"
-
-[options]
-acceptable-game-versions = ["1.20", "1.20.1"]
