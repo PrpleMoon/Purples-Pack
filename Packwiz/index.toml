@@ -165,6 +165,10 @@ file = "config/roughlyenoughitems/hints.json"
 hash = "b1aa2afaf9a5f69b0992866389e8d75b1b781e66a2d31e569a1a35a39e58777f"
 
 [[files]]
+file = "essential/config.toml"
+hash = "9aa90157496d03da0c3bcf230c69f42e69534d00b516d23f0c9cd826b3c82bec"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
