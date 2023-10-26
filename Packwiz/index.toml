@@ -1842,10 +1842,6 @@ file = "options.txt"
 hash = "155b3732346314fd478022243b5025c5cbda0e650338878990cd263fe4e7df37"
 
 [[files]]
-file = "refresh.bat"
-hash = "ff44a16b83112ffb0f91717a9a37e3ca4338b68aa4a6661f183ce35fef718c84"
-
-[[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
 hash = "705e5955865dc5ece9c044d9af5dcf0f8acbca54f3b9cced2d5a3ed77b62851a"
 metafile = true
