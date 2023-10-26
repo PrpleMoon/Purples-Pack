@@ -165,14 +165,6 @@ file = "config/roughlyenoughitems/hints.json"
 hash = "b1aa2afaf9a5f69b0992866389e8d75b1b781e66a2d31e569a1a35a39e58777f"
 
 [[files]]
-file = "config/roughlyenoughitems/pinyin.properties"
-hash = "422eb5131f392ac4e1dea422015342d20428d08f865d38d4d818b06e53c708e1"
-
-[[files]]
-file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "3d08cff055cfb847efbb585fd78d2b25077767bd9371b8968c1b596c6fb019b1"
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
@@ -1036,10 +1028,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "155b3732346314fd478022243b5025c5cbda0e650338878990cd263fe4e7df37"
 
 [[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
