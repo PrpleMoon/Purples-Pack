@@ -1,0 +1,19 @@
+{
+  "name": "Spruce House",
+  "current": "Spruce House",
+  "boxes": [
+    {
+      "pos1": [
+        -19,
+        -57,
+        40
+      ],
+      "pos2": [
+        -19,
+        -57,
+        40
+      ],
+      "name": "Spruce House"
+    }
+  ]
+}

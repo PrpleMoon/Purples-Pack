@@ -1,0 +1,16 @@
+name = "Ecospherical Expansion"
+filename = "eco-1.20.1-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7263b9919a272c2fe34af3067edd56ba64c7cb42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4754921
+project-id = 570025
+
+[option]
+optional = true

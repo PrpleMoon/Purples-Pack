@@ -1,0 +1,43 @@
+{
+  "allowMovement": {
+    "io.github.bumblesoftware.fastload.client.BuildingTerrainScreen": true,
+    "net.minecraft.class_434": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "fi.dy.masa.litematica.gui.GuiConfigs": true,
+    "fi.dy.masa.litematica.gui.GuiAreaSelectionManager": true,
+    "fi.dy.masa.litematica.gui.GuiAreaSelectionEditorSimple": true,
+    "fi.dy.masa.litematica.gui.GuiAreaSelectionEditorNormal": true,
+    "fi.dy.masa.litematica.gui.GuiMainMenu": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicLoad": true,
+    "fi.dy.masa.litematica.gui.GuiMaterialList": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicPlacementsList": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicLoadedList": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicManager": true,
+    "fi.dy.masa.litematica.gui.GuiPlacementConfiguration": true,
+    "fi.dy.masa.litematica.gui.GuiRenderLayer": true,
+    "net.minecraft.class_433": true,
+    "xaero.map.gui.GuiMap": true,
+    "red.jackf.chesttracker.gui.ItemListScreen": true,
+    "com.minecraftserverzone.weaponmaster.gui.WeaponMasterScreen": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "xaero.common.gui.GuiAddWaypoint": true,
+    "net.minecraft.class_4895": true,
+    "fi.dy.masa.malilib.MaLiLibConfigGui": true,
+    "org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen": true,
+    "dev.schmarrn.lighty.ui.ModeSwitcherScreen": true,
+    "dev.schmarrn.lighty.ui.SettingsScreen": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.coderbot.iris.gui.screen.ShaderPackScreen": true,
+    "net.minecraft.class_5375": true,
+    "io.wispforest.owo.config.ui.ConfigScreen": true,
+    "com.aizistral.nochatreports.common.gui.UnsafeServerScreen": true,
+    "interactic.ItemFilterScreen": true
+  },
+  "hideBackground": {
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "net.minecraft.class_4895": true,
+    "dev.schmarrn.lighty.ui.ModeSwitcherScreen": true,
+    "dev.schmarrn.lighty.ui.SettingsScreen": true,
+    "interactic.ItemFilterScreen": true
+  }
+}

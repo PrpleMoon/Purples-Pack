@@ -1,0 +1,13 @@
+name = "Better Trims"
+filename = "bettertrims-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52d16372d78f793221c6c184b9326e0692499ed5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4812072
+project-id = 821752

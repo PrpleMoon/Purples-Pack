@@ -1,0 +1,13 @@
+name = "Linkart (Updated)"
+filename = "linkart-5.3.0-1.20.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e5590daf40ae21bf7695e1d16b3441a03ced65a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4807332
+project-id = 622736
