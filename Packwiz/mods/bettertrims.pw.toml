@@ -1,0 +1,13 @@
+name = "BetterTrims"
+filename = "bettertrims-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/98ytUvlc/versions/WmoJsjVF/bettertrims-2.0.3.jar"
+hash-format = "sha1"
+hash = "52d16372d78f793221c6c184b9326e0692499ed5"
+
+[update]
+[update.modrinth]
+mod-id = "98ytUvlc"
+version = "WmoJsjVF"
