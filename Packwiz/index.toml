@@ -290,6 +290,11 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
+file = "mods/bounced.pw.toml"
+hash = "427185988d1a67026313bcc42766dfadf82a7b6eccf4806851977dcea3235e40"
+metafile = true
+
+[[files]]
 file = "mods/breakfree.pw.toml"
 hash = "cd2d1e6dd9babc2d7371760004701ee53651089f01894cf9f641cad5c8ab6cab"
 metafile = true
@@ -1062,6 +1067,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/bvb-eating-animation.pw.toml"
 hash = "cbf5b8dc46e18b9dc2e4847f3e3a83aacee3c50ae14b585af9c22f99bb328f14"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dark-gui.pw.toml"
+hash = "3afa417d716e4c9192e3aae42f5fc25ade115ef8ffb22dd748b42bb44d09edb2"
 metafile = true
 
 [[files]]
