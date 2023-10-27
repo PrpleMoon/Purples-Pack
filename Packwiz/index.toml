@@ -130,11 +130,11 @@ hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
 file = "config/physicsmod/physics_blocks_client_config.json"
-hash = "60dafd8eb750b497c7b3986727991dccd7be2ce020a4f910174c110f6c0f7c2e"
+hash = "ec473724bb5484a80b3b3480902acfcadf621a56eeb5f71fd74e25a27a444560"
 
 [[files]]
 file = "config/physicsmod/physics_client_config.json"
-hash = "438d7243de29afa786fa7f27c9af488f5c70fde213062b3ddeb46142438d4f96"
+hash = "d339f6bbf7cd3285e006de40c601251eec0bf8c00076960768159fdbd7283e57"
 
 [[files]]
 file = "config/physicsmod/physics_cloth_config.json"
@@ -142,7 +142,7 @@ hash = "c004242898b912a2ad1a836a4e017d921c1e8660180565ce56dc4cadc027e939"
 
 [[files]]
 file = "config/physicsmod/physics_mobs_client_config.json"
-hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
+hash = "47a2c440a66e371c3d6ee0a76549cb5a17a9630bbfd0aeb5c1b38b87a64fda89"
 
 [[files]]
 file = "config/physicsmod/physics_server_config.json"
