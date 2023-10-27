@@ -285,11 +285,6 @@ hash = "84f316671a16609ace1010b10f630ff04f12d3dac46fe48a0ce5d27f313260a6"
 metafile = true
 
 [[files]]
-file = "mods/boosted-brightness.pw.toml"
-hash = "a4b73adf9b334362164c5c3ff32c20b73fd6ada9517899ae6aa0ae8ed9ddc5f3"
-metafile = true
-
-[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
@@ -332,6 +327,16 @@ metafile = true
 [[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "0159525d452d7e755045223330b3bfc0a3df5491c4a83beee9f00af0b68b8758"
+metafile = true
+
+[[files]]
+file = "mods/chat-notify.pw.toml"
+hash = "3c09247cef17e5997e272887b16b350fc22ca004877122c46c39da710e51ebf0"
 metafile = true
 
 [[files]]
@@ -450,8 +455,18 @@ hash = "2e84ccfb19ba6e255f7fb32366a7fb1921f84d364e146f1605b9f6016af5b0aa"
 metafile = true
 
 [[files]]
+file = "mods/dripsounds-fabric.pw.toml"
+hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "6e6ee1bf66d6977728d3bf5404338c87a0a4ad5260833efcd912aaaca776cf8f"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fullbright.pw.toml"
+hash = "e883a8c887d581272fa7ce43d12e199aa297b68771c2ada53cfd462e1503f7da"
 metafile = true
 
 [[files]]
@@ -910,6 +925,11 @@ hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "4fb915d2bc266c1ed7a0dce77e3da295305c5dbec7a7ae1d142b3abf621be309"
+metafile = true
+
+[[files]]
 file = "mods/stendhal.pw.toml"
 hash = "83646326afae6c338ed6c1f686387269e8a239aa81034e58d157bd374eec8570"
 metafile = true
@@ -1030,6 +1050,11 @@ hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bettervanillabuilding-x-freshanimations.pw.toml"
+hash = "3e0add9fed1ce6cd3fe4bd767e843efe20a15decb2c4bc27d3e1be02ea07dac7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
 hash = "705e5955865dc5ece9c044d9af5dcf0f8acbca54f3b9cced2d5a3ed77b62851a"
 metafile = true
@@ -1037,4 +1062,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/bvb-eating-animation.pw.toml"
 hash = "cbf5b8dc46e18b9dc2e4847f3e3a83aacee3c50ae14b585af9c22f99bb328f14"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
 metafile = true
