@@ -931,6 +931,11 @@ hash = "d4ce2e907ac37eb1c7d4232354fa28e1a2bb9e00999ae6811e5fc587824132e2"
 metafile = true
 
 [[files]]
+file = "mods/skinswapper.pw.toml"
+hash = "dcdac84b35cd54e3848997f73878b60d1f6b2afbbd8d04f642b1b23dcbb63d6f"
+metafile = true
+
+[[files]]
 file = "mods/slot-swap.pw.toml"
 hash = "7d058dc3488175034365346fc16efe61d3badc9f154c1e923ab28e6039cf5531"
 metafile = true
