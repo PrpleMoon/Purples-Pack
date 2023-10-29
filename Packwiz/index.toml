@@ -17,6 +17,10 @@ file = "config/autoswitchUseAction.cfg"
 hash = "2f8d11d71ce5bf6500721e0f60dfd04099a85231f987b3ad685c4123efd301a9"
 
 [[files]]
+file = "config/immersive_portals.json"
+hash = "ec7bf6ca0fa11abd2034ae68678cacd184ef7220da8ca75f29bffd8fc1a76f88"
+
+[[files]]
 file = "config/inventoryprofilesnext/1.20.1/prev-villager-trading-config.json"
 hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
 
@@ -179,6 +183,26 @@ hash = "e4f30d0fa85a34ed0f1dd27911c8df66330c1f71030bba4365d16cfbad62a56a"
 [[files]]
 file = "config/roughlyenoughitems/hints.json"
 hash = "b1aa2afaf9a5f69b0992866389e8d75b1b781e66a2d31e569a1a35a39e58777f"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "9d621c6100a1c876251b8062ab7d889fb39e8f4c3510229e2d5eb884a0f50588"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "80ade3020f47e8cafa962384eea53c2ab6915dc1133a9b88326a6b16cf560221"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -903,6 +927,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "edba7765364ba526fcc7da563e9858d997dd9915401e08040c32de7f79d1bb91"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "d4ce2e907ac37eb1c7d4232354fa28e1a2bb9e00999ae6811e5fc587824132e2"
 metafile = true
 
 [[files]]
