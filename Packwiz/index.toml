@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/autoswitch.cfg"
+hash = "6a9649e00121e451fdb9ebf4223d465853a3fab5a276729ab58a3b068896d708"
+
+[[files]]
+file = "config/autoswitchAttackAction.cfg"
+hash = "aabb9e026b20d5279cce9e07156207ba81013a145cacc30b1c99102450132cec"
+
+[[files]]
+file = "config/autoswitchEventAction.cfg"
+hash = "b01e68d6f26e7744800f00e59ab80348ab218d5830da8d6ce69b1f8eeaeddb20"
+
+[[files]]
+file = "config/autoswitchUseAction.cfg"
+hash = "2f8d11d71ce5bf6500721e0f60dfd04099a85231f987b3ad685c4123efd301a9"
+
+[[files]]
 file = "config/inventoryprofilesnext/1.20.1/prev-villager-trading-config.json"
 hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
 
