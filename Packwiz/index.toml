@@ -189,10 +189,6 @@ file = "config/xaerominimap-common.txt"
 hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "9d621c6100a1c876251b8062ab7d889fb39e8f4c3510229e2d5eb884a0f50588"
-
-[[files]]
 file = "config/xaerominimap_entities.json"
 hash = "80ade3020f47e8cafa962384eea53c2ab6915dc1133a9b88326a6b16cf560221"
 
