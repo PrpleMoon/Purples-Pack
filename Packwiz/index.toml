@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "47336ab62f9f72c14e8b3aec3753aa9594de2bda4e4b84dd0e5295d7efa078de"
+hash = "5cd0b0cb8d2146d9c3e1cddd1058b965fb62dd57f689db26f074f7e3ee3dd357"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettertrims.pw.toml"
-hash = "ede50870eb5eea2135c15075bc8d0d2a2df650983d0b7d472ad80d5caedec911"
+hash = "60c55fa096e92b362f8f8d0dcc26375f140644bb14c833804fe1d1619febe708"
 metafile = true
 
 [[files]]
@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "b5f46bcdef2f0fa38846efb3af25912ca63ef1f77049d682604185d52dcdd8f1"
+hash = "71f9ac8b4941f937383606fc7f3661c4d895f34f37315b86a23a0d0a9b599d39"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ce687b5880e14a15a6c568db9e0676a5e2f210198c109f56426e71a50b13a165"
+hash = "ac2ba7e93f5d27a338b6997ed21ded9a8a97c73e731e3e2f2e49d0212ab7381c"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "b877e1471ac8eb9933a9c8c2529748b5a2ab05e63eaf564f63624288a18c3429"
+hash = "073795fff0829c88707bdd7774faa544034d6a6ea375f1366b5220047450cfc3"
 metafile = true
 
 [[files]]
@@ -553,12 +553,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
+hash = "cf34353699cc6f332d1baa6868a1859f140793816c86889a2121687087a4a242"
 metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "e0ac3ac43eb40f40973cae85e5f5d9094001142d0bfddf6fa507119c1238e6e6"
+hash = "77dadf647e0cd6056ae619f7a862e3aa06af70ee2cac97f0a08a6b9001c0b247"
 metafile = true
 
 [[files]]
@@ -653,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersiveportals.pw.toml"
-hash = "694a7d292e194c547a1fa1fd7aed18efdd5a131e31f142d03959711cc744575f"
+hash = "df63cbda65673b9957ad8144e45b16f6b2bdf84978be52f476106267eced6e14"
 metafile = true
 
 [[files]]
@@ -793,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d354dda98d65a789e411d116321bb50a7cbe6852b1f36fa77451068922fa50e7"
+hash = "36868c5bce91c29a02aba65827e48273588a5452177dbffa828e45fdcd6e3a0e"
 metafile = true
 
 [[files]]
@@ -803,7 +803,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "edbcee8c3edd7118334406c84d30591dab92e8ecb27e68538af1005eac6b4663"
+hash = "a92082b5f3ff068fdde6fa01f8273ecc4fbbce9e5cdc702f125ea841231ec3ed"
 metafile = true
 
 [[files]]
@@ -838,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "0806fafc99d2bc0d3caf9bbf726367ee3e1a56788a6254b58b45567980dce7f1"
+hash = "63bd12c34c206672ebba460d6d5845fe7ce4fbb86396e8da22aacd1af8d52d22"
 metafile = true
 
 [[files]]
@@ -873,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "d9e84fd1136a8ad6faede847c4b258f3156464872dcf6ca63a0e26eeff836bbb"
+hash = "77043498c548bdcf579a6eedf6f52621b65696e1957327ebd6421e699fa61f01"
 metafile = true
 
 [[files]]
@@ -913,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
+hash = "b9eb5237b412cdae4005301af44f6b2298cb3b6f53cfd93456cf9c7833ad6a4b"
 metafile = true
 
 [[files]]
@@ -1068,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "4e34ef6f58a17523c6fbfd210277a9871ee39a1f0d30e9906edd69d9a1ac0755"
+hash = "da7fa0d532870ab39cef825b5df1993a80d0001a63e62dfba51d767fe16f96a5"
 metafile = true
 
 [[files]]
@@ -1093,7 +1093,7 @@ metafile = true
 
 [[files]]
 file = "mods/ydms-mobhealthbar.pw.toml"
-hash = "8253e3dc5e605b2ac1acffe0b721b554dc5cdb21a2d5c110f208d502b7b895ca"
+hash = "3b42d4fa01ff21e55de77fb79ef619dfd5fa9847279b7cd86aaff8be30e7dece"
 metafile = true
 
 [[files]]
