@@ -502,11 +502,6 @@ hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
 metafile = true
 
 [[files]]
-file = "mods/drogstyle.pw.toml"
-hash = "3cb69f9380e633b3187fef3c0855ffc8f8bee0477626d37329ba8a90c8c20ec9"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "6e6ee1bf66d6977728d3bf5404338c87a0a4ad5260833efcd912aaaca776cf8f"
 metafile = true
@@ -994,11 +989,6 @@ metafile = true
 [[files]]
 file = "mods/stendhal.pw.toml"
 hash = "83646326afae6c338ed6c1f686387269e8a239aa81034e58d157bd374eec8570"
-metafile = true
-
-[[files]]
-file = "mods/styled-nicknames.pw.toml"
-hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
 metafile = true
 
 [[files]]
