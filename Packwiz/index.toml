@@ -197,6 +197,11 @@ file = "config/xaeroworldmap-common.txt"
 hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
 
 [[files]]
+file = "mods/additionz.pw.toml"
+hash = "67e0339fa2aff11cbd31a552bf8fc8b739d5a69b25f4694661bff334b1be6dcc"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
@@ -834,6 +839,11 @@ metafile = true
 [[files]]
 file = "mods/noxesium.pw.toml"
 hash = "1275df3c714ce6fb52294e5c63b1fe2dd32dbe0d43714b4b9791eb9b3f2f45d3"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
 metafile = true
 
 [[files]]
