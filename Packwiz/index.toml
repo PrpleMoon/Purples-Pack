@@ -198,7 +198,7 @@ hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "mods/additionz.pw.toml"
-hash = "6c4f975bb91148a769b765ac2266caa102b4a71f28cfa1157837863cdf032f84"
+hash = "4831cfd06339fb52586e5c893699c841b07bbfa1e603f43b907569e044c43528"
 metafile = true
 
 [[files]]
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "00c33874bf3848cae705e95c6db0854780899c59a79ad0ae8c42c40936ea7c9c"
+hash = "fb7beabd5d4c7d6171871ed342c26cbe4506c908ddac578a9bb9d480daf23ef0"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "0159525d452d7e755045223330b3bfc0a3df5491c4a83beee9f00af0b68b8758"
+hash = "4c47dc1b5aa64bf99ea79086f02fc4d1bc79922098fc2c0e3d84a68e3c36dd10"
 metafile = true
 
 [[files]]
@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "cc567e526ed680650276a1f9ec8fa4619ad1bb326bed281263600729c3958336"
+hash = "7df8b9795c51643f31cba87ecaea0db96cf2edae97f09e1d37f85fba82adceb8"
 metafile = true
 
 [[files]]
@@ -458,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "5ed437c14268d539c9ec53a01ad1f9a686a4c1a60268bd8862a3b8c7a8e9ef63"
+hash = "d3fef41a6ee2c03cbd9a8116c78db0c38869cc6b37e2114737cc89ce5de598d1"
 metafile = true
 
 [[files]]
@@ -578,7 +578,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e21c656fee024536d2268eeab490a21b63ac51736ce9895468b01b5e35c18f03"
+hash = "1d5d3c0222de77b87ad1be4f6e5527a399060e8f668c8f3cd4d24ea42d1df6a1"
 metafile = true
 
 [[files]]
@@ -653,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
+hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
@@ -798,7 +798,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "38e09475523aea60955a0495a1e65fef450b83ed1be3c62c0fb0f3fa1f6f80f3"
+hash = "e0e8c3e60bac3df37dd6d4ea9d1a5ea91807727ef797b557996d4e4062219d90"
 metafile = true
 
 [[files]]
@@ -808,7 +808,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cf249c688b09acf94becdf1aad5f0b71664948bf9f2e25950c9ddc3b1477cab9"
+hash = "0f45c49682abd5b0a633363ebeb17502d084313c7907b3ee8e17378ac2743763"
 metafile = true
 
 [[files]]
@@ -848,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
+hash = "56bb777ae80511dcd02f01955bb327b11c9ce32ecb6dfdde999f408ece308328"
 metafile = true
 
 [[files]]
@@ -858,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "95bd5b11e2f18089f1699e757c8efcf47b752880320ab4a5f8cfe51f79c552c9"
+hash = "bac6013bf6677991c7a8450ee975efcf9da2fde6b8cba1bb77136d536e376d43"
 metafile = true
 
 [[files]]
@@ -883,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6aefa0758e6f2bcc95ba7be9e3cc9ff8c19e4a3217cb41aac8ff80350da9ce7b"
+hash = "8ecb202cbaf851233c9b3ff1541f8c70af8334779d59e8046450d6bcd62edc67"
 metafile = true
 
 [[files]]
@@ -1028,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "7abb44df595d8176b296678936304e7f6e046d704d365bf2df06b964f1a632fb"
+hash = "2723ff4a660533791803a47f9e29d04f79d0773998a14402a86d4f15de3acc52"
 metafile = true
 
 [[files]]
