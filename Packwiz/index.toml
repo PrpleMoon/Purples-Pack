@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/autoswitch.cfg"
-hash = "6a9649e00121e451fdb9ebf4223d465853a3fab5a276729ab58a3b068896d708"
-
-[[files]]
-file = "config/autoswitchAttackAction.cfg"
-hash = "aabb9e026b20d5279cce9e07156207ba81013a145cacc30b1c99102450132cec"
-
-[[files]]
-file = "config/autoswitchEventAction.cfg"
-hash = "b01e68d6f26e7744800f00e59ab80348ab218d5830da8d6ce69b1f8eeaeddb20"
-
-[[files]]
-file = "config/autoswitchUseAction.cfg"
-hash = "2f8d11d71ce5bf6500721e0f60dfd04099a85231f987b3ad685c4123efd301a9"
-
-[[files]]
 file = "config/immersive_portals.json"
 hash = "ec7bf6ca0fa11abd2034ae68678cacd184ef7220da8ca75f29bffd8fc1a76f88"
 
