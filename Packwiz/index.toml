@@ -185,20 +185,20 @@ file = "config/roughlyenoughitems/hints.json"
 hash = "b1aa2afaf9a5f69b0992866389e8d75b1b781e66a2d31e569a1a35a39e58777f"
 
 [[files]]
-file = "config/xaerominimap-common.txt"
-hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+file = "config/xaerominimap.txt"
+hash = "5d5faf2d30b5639f9d1c62f0716181f0c582f21572c7a3fe7cd83cd835fd383d"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "80ade3020f47e8cafa962384eea53c2ab6915dc1133a9b88326a6b16cf560221"
+hash = "e77f63a46fc8894105545d597afcdcb698a263307401a89b029eaedae3ed4b68"
 
 [[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+file = "config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "mods/additionz.pw.toml"
-hash = "67e0339fa2aff11cbd31a552bf8fc8b739d5a69b25f4694661bff334b1be6dcc"
+hash = "6c4f975bb91148a769b765ac2266caa102b4a71f28cfa1157837863cdf032f84"
 metafile = true
 
 [[files]]
@@ -578,7 +578,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
+hash = "e21c656fee024536d2268eeab490a21b63ac51736ce9895468b01b5e35c18f03"
 metafile = true
 
 [[files]]
@@ -848,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "63bd12c34c206672ebba460d6d5845fe7ce4fbb86396e8da22aacd1af8d52d22"
+hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
 metafile = true
 
 [[files]]

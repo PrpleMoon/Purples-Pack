@@ -40,9 +40,9 @@
       "settingOverrides": {
         "displayed": true,
         "renderOrder": 2.0,
+        "names": 1.0,
         "color": 14.0,
-        "icons": 2.0,
-        "names": 1.0
+        "icons": 2.0
       },
       "subCategories": [
         {
@@ -55,8 +55,8 @@
           "protection": true,
           "settingOverrides": {
             "renderOrder": 6.0,
-            "color": 15.0,
-            "heightLimit": 2050.0
+            "heightLimit": 2050.0,
+            "color": 15.0
           },
           "subCategories": [
             {
@@ -173,9 +173,9 @@
       "protection": true,
       "settingOverrides": {
         "renderOrder": 1.0,
+        "names": 1.0,
         "color": 12.0,
-        "icons": 2.0,
-        "names": 1.0
+        "icons": 2.0
       },
       "subCategories": []
     },
