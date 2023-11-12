@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/autoswitchAttackAction.cfg"
+hash = "54177bc2ff78d4736d187ad0fac5b8d557c39943f46beaa09514123bf2756592"
+
+[[files]]
 file = "config/immersive_portals.json"
 hash = "ec7bf6ca0fa11abd2034ae68678cacd184ef7220da8ca75f29bffd8fc1a76f88"
 
