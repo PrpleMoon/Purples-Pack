@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "002a43d78a1164f15354b58a21566c8e6063fbd65390524a889bcee5895f203a"
+hash = "9e44e050783e06ab8135679dd4339e1bd96955423c35711bf09c485edeba77cd"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "01903b4a720913b5653b0c479f4f45417a62e53e6961fe7b709e213d7a617c0e"
+hash = "303cff3c9d5199d1f11d0074499d5ae6511ea01cd1c736b9faddfc8a6daea06b"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
+hash = "5e3ee3550327d6b3545abc363325056c9fc09fb4d48a841e32da2da54c7f74c9"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7df8b9795c51643f31cba87ecaea0db96cf2edae97f09e1d37f85fba82adceb8"
+hash = "e2d40bf32278f3d2b65fae32af10f6a7ea38f49e74868fb30fbeb939a7983af1"
 metafile = true
 
 [[files]]
@@ -786,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e0e8c3e60bac3df37dd6d4ea9d1a5ea91807727ef797b557996d4e4062219d90"
+hash = "b9125c39c0cdfdf11287f16e856b4ff1823b19d58e6f05a7066d15f14ac64aa6"
 metafile = true
 
 [[files]]
@@ -986,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/stendhal.pw.toml"
-hash = "83646326afae6c338ed6c1f686387269e8a239aa81034e58d157bd374eec8570"
+hash = "f891cc32728a13dec5d8763f86b926498eb745b3bd80676120292bacd03e51ab"
 metafile = true
 
 [[files]]
