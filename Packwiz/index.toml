@@ -1,6 +1,194 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/autoswitchAttackAction.cfg"
+hash = "759f4409908adddea594a83bbbd75ce5f4fc2cff3dba1999326213c682ea86f7"
+
+[[files]]
+file = "config/immersive_portals.json"
+hash = "3e319b531aa2ad8a2a95861e331966f15009cd728ca00f22b388656e8f774a0c"
+
+[[files]]
+file = "config/inventoryprofilesnext/1.20.1/prev-villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/1.20.1/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/1.20.2/prev-villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/1.20.2/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/1.20/prev-villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/1.20/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/69/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/Creative/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/Endercon/prev-villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/Endercon/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/Ludo/prev-villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/Ludo/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/Mob Arena/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/New World/prev-villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/New World/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/Props/prev-villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/Props/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/PrpleMoon.aternos.me&39346/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/Survival/lockSlots.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/inventoryprofilesnext/Survival/prev-villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/Survival/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/Terralith/prev-villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/Terralith/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/eu.hypixel.net/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/flat/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "f0c885470e7ecdbed0a9fdf7cf584e84d8dfc200ca38a44e9bfaa773ee8800e2"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "aa11c4300b8d7a4f1d5e6b29578f84a6f0fa75cc42cbe0e669a0e3d9ffc570be"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "ebfc04469b3adaecd0f1e8f050b5dc8f6a3b4ebb01ed69874d11801b1686b69c"
+
+[[files]]
+file = "config/inventoryprofilesnext/play.bettervanillabuilding.com/prev-villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/play.bettervanillabuilding.com/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/inventoryprofilesnext/villager-trading-config.json"
+hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+
+[[files]]
+file = "config/mobhealthbarconfig.properties"
+hash = "16735779374ddf89ab20dbea0c25a17f9c196dc18c97ca4a661c45a4f92822f7"
+
+[[files]]
+file = "config/physicsmod/physics_animations_client_config.json"
+hash = "995699b91eadd940756cf3764922983b27226c61dd1cbc647dad2ab4e310c0b7"
+
+[[files]]
+file = "config/physicsmod/physics_blocks_client_config.json"
+hash = "761452ff91624f86ea64d827880b8c957ef53606a163c7b369ed9af205fde5c6"
+
+[[files]]
+file = "config/physicsmod/physics_client_config.json"
+hash = "862c8d55c64fdf8afcf1a17abf697af2f52df442656ecd1a0519de57630da101"
+
+[[files]]
+file = "config/physicsmod/physics_cloth_config.json"
+hash = "0586b523814ae1610c4aed7f91160150737020b6d9645845657afe4860c45721"
+
+[[files]]
+file = "config/physicsmod/physics_mobs_client_config.json"
+hash = "d62b33f67936c53364880e98a54ac40ed83cd1395a276aa784123946fa838651"
+
+[[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "c5582baf1a93f836bda6bcbced5d481e8b912c88067f8a334d1c653a4233af97"
+
+[[files]]
+file = "config/physicsmod/physics_vines_client_config.json"
+hash = "77d3f63534349df4011141acbd24a9cad7d82384658baa6cab41e6ae4cc2117b"
+
+[[files]]
+file = "config/roughlyenoughitems/changelog.txt"
+hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "9ca89304028570e1d0147b04fc25aed27c25beb3c905e8ec42cf2ba671977fbc"
+
+[[files]]
+file = "config/roughlyenoughitems/hints.json"
+hash = "b1aa2afaf9a5f69b0992866389e8d75b1b781e66a2d31e569a1a35a39e58777f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "5d5faf2d30b5639f9d1c62f0716181f0c582f21572c7a3fe7cd83cd835fd383d"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "ea2b9cfdde8f985b3004b7a32a0e6ebdc940e70a3f8d4b8903b9fb8a459f20dc"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+
+[[files]]
 file = "mods/additionz.pw.toml"
 hash = "67e0339fa2aff11cbd31a552bf8fc8b739d5a69b25f4694661bff334b1be6dcc"
 metafile = true
