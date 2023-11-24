@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "17fb395a76ea145601cfdc806a8d3cd2e84998a4ca4d0381c6b0d487d52ab5e0"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
 
 [[files]]
@@ -495,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "4f128671b0d6f236c745f5201658d7061a11bb2ffe1d50a6a246cd766edd1e8f"
+hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
 metafile = true
 
 [[files]]
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons-terralith-compat.pw.toml"
-hash = "363b6ef3428a370185bb6ffb5012711c12efd487983c31a313fe3191d83f905e"
+hash = "7c8572547d6e71b653018c3350daec54010442cba9f9517a4252bf3b8d3ecd3d"
 metafile = true
 
 [[files]]
@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "7182033cb3aa7398ee9b05f5427c70bf87983cc40f46a8725c622ffc94025190"
+hash = "d4ce2e907ac37eb1c7d4232354fa28e1a2bb9e00999ae6811e5fc587824132e2"
 metafile = true
 
 [[files]]
