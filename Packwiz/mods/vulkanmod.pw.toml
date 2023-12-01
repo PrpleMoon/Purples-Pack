@@ -1,0 +1,13 @@
+name = "VulkanMod"
+filename = "VulkanMod_1.20-0.3.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JYQhtZtO/versions/PvnB4Eiu/VulkanMod_1.20-0.3.6.jar"
+hash-format = "sha1"
+hash = "0e85c3da21fbd9fad2097f89ce080594b35985c1"
+
+[update]
+[update.modrinth]
+mod-id = "JYQhtZtO"
+version = "PvnB4Eiu"
