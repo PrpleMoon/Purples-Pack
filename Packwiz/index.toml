@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-notify.pw.toml"
-hash = "f1dc7fb9944f2692ce4adc6bfae199a9496719b2c0b9dd0fc53b680a47f022e8"
+hash = "b2940396e0f29015ab0a955932d25169f5bfc8e7acf8acc9c8dcc4b52c2bca7e"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleardespawn.pw.toml"
-hash = "fdf0fb9507b144cc345dfb2db33eeb1a8b7c8284d171bac7c1e3d55996ca0a3b"
+hash = "be484c508ba6866ae478956e053a069643d489b8a92eb6079057d70e3337c106"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e2d40bf32278f3d2b65fae32af10f6a7ea38f49e74868fb30fbeb939a7983af1"
+hash = "9c5b2ccf44210ccfd17b8f39e1fe5d7cb27e0acc78abecc855917ac5a3b7c2b5"
 metafile = true
 
 [[files]]
@@ -362,12 +362,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d2c2ff7235ed661ed8fb82e20a6de85b147e69c4b1cf1cc9102ebf8fe102636f"
+hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "3a9d78d66319cd5165658f1dc4a5aae0060bf1c9d42ed3b8a716429c5e390405"
+hash = "648ad4925a377d419d5a49e4585cf77c76488c929201bebc3ec9d0c47dcd0c5f"
 metafile = true
 
 [[files]]
@@ -872,12 +872,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "97da858e6f958a87d076852f8e68a94095c1169f38f4089718ad56ea3eb11a2d"
+hash = "051834b92b9cdf5f93e61c20e167c9f456a59b1c683667b867f675c28a25f67c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a94b26104a8ff5dafab4b0824eca6f44ed71aa0ed53b150a2659b1d7361a2b31"
+hash = "1feec673626f914308c517f2ed29317cb1ca3124d7854667449cf8bbed3e126d"
 metafile = true
 
 [[files]]
