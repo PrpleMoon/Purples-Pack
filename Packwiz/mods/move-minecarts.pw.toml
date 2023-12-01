@@ -1,0 +1,13 @@
+name = "Move Minecarts"
+filename = "moveminecarts-1.20.1-3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JpVB2WA8/versions/vYzCOpwx/moveminecarts-1.20.1-3.3.jar"
+hash-format = "sha1"
+hash = "b8723c7226ec0e229f39958ccd5659980eacecc0"
+
+[update]
+[update.modrinth]
+mod-id = "JpVB2WA8"
+version = "vYzCOpwx"

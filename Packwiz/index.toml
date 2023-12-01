@@ -626,6 +626,11 @@ hash = "f5eb9d19a205a42dbb9d8ad4ee95e2cf0364814dd8416a9147b21f261dd93c97"
 metafile = true
 
 [[files]]
+file = "mods/move-minecarts.pw.toml"
+hash = "7740d78e1737faf4bce42175970524ec9d873dee90013be77b043f19c798dcde"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "ae96a2a2fee44e370682e2ee015e25c49462313a6865b3e029703b19ac5cead6"
 metafile = true
