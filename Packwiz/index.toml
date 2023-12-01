@@ -886,11 +886,6 @@ hash = "5944130f698e8cac37ddb6599351d96d4018208eb26c551a682a2d13b647320f"
 metafile = true
 
 [[files]]
-file = "mods/vulkanmod.pw.toml"
-hash = "c1263434bac06b20658a4d16af2c36620ddb6598392413f071e7de2d5eb65a6a"
-metafile = true
-
-[[files]]
 file = "mods/wakes.pw.toml"
 hash = "c55ddaf36164636c197215a3aff813fc53199efe8001fd87d6cfd1194e6265b4"
 metafile = true
