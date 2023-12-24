@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "essential/config.toml"
+hash = "61a60984ca3e806b804350e266d93aa61ed6ccabee0cf0e365728e8a70270e28"
+
+[[files]]
 file = "mods/additionz.pw.toml"
 hash = "67e0339fa2aff11cbd31a552bf8fc8b739d5a69b25f4694661bff334b1be6dcc"
 metafile = true
