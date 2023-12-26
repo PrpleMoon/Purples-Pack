@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "9bc11983cc086e4e8123050788138043689f6c7a1af03d048c8830a165a1921e"
+hash = "4edd1355c4ffd33c391b6ae91d69f589c08e4b699b63788e59340e0a032ff348"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/chest-tracker.pw.toml"
-hash = "b7c5ffcb08e6f1298234091c4a390891181af24dbf1971339e30551c26bc6741"
+hash = "2bbc76335047a3ba583afd60ad53b33855454df8dfddf488e7132ccfba32e148"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3de9862896a2880f19867f600f5ca6d9c89865493f405c378f0d9c224152c2f6"
+hash = "2205cb06ba208c342a08f3f2e14bd2bbebdfd2ff0be76b22170f231c01b7f76e"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "233e9c41f05e0c301c0d80bfef77f409c16f73959587b5db44269186e96f94d0"
+hash = "87d55e42e8095facbf1c4b28432ea0a4d6d08a0aa3add54a3b07c2fc74bcc129"
 metafile = true
 
 [[files]]
@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "6fd593e4ac6bd3148b0c38c87770dea3e48ee92b91d0c3b177e1915d10e6c598"
+hash = "cc274d132190a6b1539bc0ab9ed43a2ad638e94de8ae6b8141b36e0b86de3893"
 metafile = true
 
 [[files]]
@@ -843,11 +843,6 @@ metafile = true
 [[files]]
 file = "mods/symbol-chat.pw.toml"
 hash = "d54c8655b93f5b267605b77505f9e4dc63c479b300aae97a88e163029d65b6fc"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "eede133dd250889ed521ba31ace80af20f71d47585a28de1184fe29fde83dad0"
 metafile = true
 
 [[files]]
