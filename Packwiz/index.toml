@@ -351,6 +351,11 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-lore.pw.toml"
+hash = "5e5b41dc332f3090bb716738e51d95bdf7f6869651d2b125f1178eb513508d1f"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "0243e5340ac8a37ec903b58411be61e4dcab50468ddca99827bba49acbbec190"
 metafile = true
@@ -393,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
 metafile = true
 
 [[files]]
@@ -623,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "545588787cd62823cd17222abe2f8928488796c13ff6abf4e15b695afd44f2d2"
+metafile = true
+
+[[files]]
+file = "mods/more-banner-features.pw.toml"
+hash = "c2e7c271a462b708f4427ee5f8d679413e2b4481a7af651b647b0678e64e3652"
 metafile = true
 
 [[files]]
@@ -983,4 +998,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/snowy-mountains-sky.pw.toml"
+hash = "810c06a7208139cf4f6341323dbef9647f785f3b845b94de1cd63d9e4fc33e4b"
 metafile = true

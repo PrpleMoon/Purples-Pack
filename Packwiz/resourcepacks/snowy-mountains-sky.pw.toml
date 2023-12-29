@@ -1,0 +1,13 @@
+name = "Snowy Mountains Sky"
+filename = "Snowy_Mountains_Sky.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B9RvpVrv/versions/K68Bf3L4/Snowy_Mountains_Sky.zip"
+hash-format = "sha1"
+hash = "24ebedd5f41c0da2e0f870e08aa8daf842a269f4"
+
+[update]
+[update.modrinth]
+mod-id = "B9RvpVrv"
+version = "K68Bf3L4"
