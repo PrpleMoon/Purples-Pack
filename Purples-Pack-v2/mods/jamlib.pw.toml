@@ -1,0 +1,13 @@
+name = "JamLib"
+filename = "jamlib-quilt-1.0.4+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IYY9Siz8/versions/6tvcp5cu/jamlib-quilt-1.0.4%2B1.20.4.jar"
+hash-format = "sha1"
+hash = "eebf8086b0bd4fd271eb3800792504691442478a"
+
+[update]
+[update.modrinth]
+mod-id = "IYY9Siz8"
+version = "6tvcp5cu"

@@ -1,0 +1,13 @@
+name = "AutoSwitch"
+filename = "autoswitch-8.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uSdcnlts/versions/qkegdAQH/autoswitch-8.0.1.jar"
+hash-format = "sha1"
+hash = "ac9e9c641d674be3b28a65b01140fcd8bcd2f1a3"
+
+[update]
+[update.modrinth]
+mod-id = "uSdcnlts"
+version = "qkegdAQH"
