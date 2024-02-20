@@ -61,11 +61,6 @@ hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
-file = "mods/beaconoverhaul.pw.toml"
-hash = "ba9e1f1bfa31c9d36d04b4bd77bc52969f9d29dc4ea16d28312e0fe0b9266848"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "d532ec52a7692e4f018a7794e65757046cd6f03286f9aae4b83dd2dc8ea92e99"
 metafile = true
@@ -618,11 +613,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "c181b8ce64216c1d82a56311c74d7ae601eb364596e9c3f90ddd43f152e72491"
-metafile = true
-
-[[files]]
-file = "mods/more-banner-features.pw.toml"
-hash = "c2e7c271a462b708f4427ee5f8d679413e2b4481a7af651b647b0678e64e3652"
 metafile = true
 
 [[files]]
