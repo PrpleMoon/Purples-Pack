@@ -276,11 +276,6 @@ hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
 metafile = true
 
 [[files]]
-file = "mods/dawn.pw.toml"
-hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
-metafile = true
-
-[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
 metafile = true
@@ -883,11 +878,6 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "75b8ac35dee78b95e98d995a1d22e2b122e39425b2ab8838334b8cac849ca0f4"
-metafile = true
-
-[[files]]
-file = "mods/universal_ores.pw.toml"
-hash = "a31a9db89b6b0a610ae4b78edcf0f20527e6bde59bf47814d0d817be7c9a9dd6"
 metafile = true
 
 [[files]]
