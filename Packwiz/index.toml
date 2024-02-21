@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "GitHub.lnk"
-hash = "b810a7f447080c825f3b2532d0b885927149a1cc930ede4f026070bf2a7be81a"
-
-[[files]]
-file = "README.md"
-hash = "8da984adbb5362e2def929fb33ee2801c554ade47bcbe7669dd158db0cf0a067"
-
-[[files]]
-file = "how-to.md"
-hash = "7ac3b7958807ca1d253c56e78f03b3dfb0aad36ae5728da4a2fb031a36047418"
-
-[[files]]
 file = "mods/additionz.pw.toml"
 hash = "44317fed766b060bd5f6e86833dbf7cb33bd6f5505b6fbb1ff3bee3050649427"
 metafile = true
@@ -968,10 +956,6 @@ hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
-file = "refresh.bat"
-hash = "8824581aeb3235e43d34d75c01c83ae5d4e62d01bdee77e7b6d35c1680cbd091"
-
-[[files]]
 file = "resourcepacks/bettervanillabuilding-x-freshanimations.pw.toml"
 hash = "3e0add9fed1ce6cd3fe4bd767e843efe20a15decb2c4bc27d3e1be02ea07dac7"
 metafile = true
@@ -1000,7 +984,3 @@ metafile = true
 file = "resourcepacks/snowy-mountains-sky.pw.toml"
 hash = "810c06a7208139cf4f6341323dbef9647f785f3b845b94de1cd63d9e4fc33e4b"
 metafile = true
-
-[[files]]
-file = "update.bat"
-hash = "5858daf73f8279940ce4e029ecb4f0ec5a26e11cc2ef6360b35df5e1d0c45ea9"
