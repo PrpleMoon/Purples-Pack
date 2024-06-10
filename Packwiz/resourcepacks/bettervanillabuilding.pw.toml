@@ -1,6 +1,6 @@
 name = "BetterVanillaBuilding"
 filename = "BetterVanillaBuildingV2.98.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/LBcosBrl/versions/2Yk85eRT/BetterVanillaBuildingV2.98.zip"
