@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "ce3da901404b5b04970e0655643fc68621e935f553429eb96654d41ab722e907"
+hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "5902103607f6b53cefedb966fc1b24fe57365f7b524cb71c8c44c33fe2957d2e"
+hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "5b14e27c49afae3796b106a408c5d6b1e5d6628226a7f95c1902ef1ece9c6444"
+hash = "1275df3c714ce6fb52294e5c63b1fe2dd32dbe0d43714b4b9791eb9b3f2f45d3"
 metafile = true
 
 [[files]]
