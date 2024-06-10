@@ -3,11 +3,11 @@ filename = "Snowy_Mountains_Sky.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/B9RvpVrv/versions/K68Bf3L4/Snowy_Mountains_Sky.zip"
+url = "https://cdn.modrinth.com/data/B9RvpVrv/versions/oX09313Z/Snowy_Mountains_Sky.zip"
 hash-format = "sha1"
-hash = "24ebedd5f41c0da2e0f870e08aa8daf842a269f4"
+hash = "009f955c66348c0fb87242bd23b3cbf1cb991dec"
 
 [update]
 [update.modrinth]
 mod-id = "B9RvpVrv"
-version = "K68Bf3L4"
+version = "oX09313Z"
