@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "32bb366e365ee3127d3c3fd603b025aef733ad9485e013e9d5710e5c338a088a"
+hash = "87234dcdb080420a3423283c844dfe5d7c4718660999674ea92223447fb46203"
 metafile = true
 
 [[files]]
@@ -288,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "357839f0d59b5c444de9021ecb615083d3fa4079364336ec24c018c3e2c05d58"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "19fa105045a5a918e7ab4bc74ab58b6056f764856dd6f46ce95006e16cb41fd4"
 metafile = true
 
 [[files]]
