@@ -146,16 +146,6 @@ hash = "cd2d1e6dd9babc2d7371760004701ee53651089f01894cf9f641cad5c8ab6cab"
 metafile = true
 
 [[files]]
-file = "mods/bundle-jumble.pw.toml"
-hash = "e4dad195ef6430d2864dc80a85fe9ea0ec5b7cae65ca2a684964110d53efd0be"
-metafile = true
-
-[[files]]
-file = "mods/bundle-recipe.pw.toml"
-hash = "3f8d90916d283197505864fc46517834e2fc1da25f44fa77e9289fdfd9f23c16"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
 metafile = true
@@ -163,16 +153,6 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
-metafile = true
-
-[[files]]
-file = "mods/carpeted-stairs.pw.toml"
-hash = "c6863b36c6b724cec951951b6ef1e1cda7322c731d8ae42a28b1c65fa55b9cc3"
-metafile = true
-
-[[files]]
-file = "mods/cauldron-dyeing.pw.toml"
-hash = "38d30909fe3ee4749ce51d86a8c1c0008a25d52c956a529d883ac607735cd0ad"
 metafile = true
 
 [[files]]
@@ -223,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "a704bc3997d75ffc2cac8311ef97f6336fcae75f6c82242d8a36fc15a2641c56"
-metafile = true
-
-[[files]]
-file = "mods/connectible_chains.pw.toml"
-hash = "7b40dd32987327f670afa058558558ebf95295005c31d4fb341320c3689b5465"
 metafile = true
 
 [[files]]
@@ -321,11 +296,6 @@ hash = "991b8a836f82033fc5177a2c9e7f91e30d91694dfbc217db7e17c0075a9e5383"
 metafile = true
 
 [[files]]
-file = "mods/easiervillagertrading.pw.toml"
-hash = "127f99ab123f5093002748b1b09ec4e304025bf955d9ce93d5e5b61d53efba48"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
 metafile = true
@@ -383,11 +353,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-terralith-compat.pw.toml"
-hash = "363b6ef3428a370185bb6ffb5012711c12efd487983c31a313fe3191d83f905e"
 metafile = true
 
 [[files]]
@@ -578,11 +543,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
-metafile = true
-
-[[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "1883ce97c88cd65830988c865757e077646632881fb4fceb263b7127256d84b6"
 metafile = true
 
 [[files]]
@@ -781,11 +741,6 @@ hash = "dcdac84b35cd54e3848997f73878b60d1f6b2afbbd8d04f642b1b23dcbb63d6f"
 metafile = true
 
 [[files]]
-file = "mods/slot-swap.pw.toml"
-hash = "e46bd1d97f0ac4c6a6038071fbfdc39e6698dc084ed2ae6c6401fd1938435695"
-metafile = true
-
-[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "b8bc887f9e1b8c535d924b9dc4d43025767ceba74b008a20c966358209ed0e65"
 metafile = true
@@ -878,11 +833,6 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "5dc49fed1045ca205ac2a750bb34e3e2526bf9577498b4013fc79efd67e6dd89"
-metafile = true
-
-[[files]]
-file = "mods/tweakeroo.pw.toml"
-hash = "7ea64c0c15d569b1589ec7893c272440499360da8cbd2b74dcb6720f8074da61"
 metafile = true
 
 [[files]]
@@ -986,13 +936,8 @@ hash = "cbf5b8dc46e18b9dc2e4847f3e3a83aacee3c50ae14b585af9c22f99bb328f14"
 metafile = true
 
 [[files]]
-file = "resourcepacks/dark-gui.pw.toml"
-hash = "9ee8fe5df23e65482e8d409e25b6e9b4e451200d85c3cb39580815017e443d8c"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "d52917c3f3506624e6f11b49feb1c0a1db8fd6818069823bf5e9eba32071c332"
+hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
 metafile = true
 
 [[files]]
