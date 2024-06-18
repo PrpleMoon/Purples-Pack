@@ -716,6 +716,11 @@ hash = "3a918ed8f788c9fdc80655da76c9499aaf60a468f5960bbf6e744ddf10231754"
 metafile = true
 
 [[files]]
+file = "mods/replanter.pw.toml"
+hash = "dcc6a9918bba09c4d75d0c87883c7bde009fd553bea0d7009048b715ed01b1be"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "839095a9062c12397f92bfd5b52f251a81378f9ad23cabb2a9edf87fbb7a6f14"
 metafile = true
