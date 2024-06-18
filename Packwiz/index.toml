@@ -706,6 +706,11 @@ hash = "d01901c3ddefb29da936aaf79e31a1fba298810cbae0a411bb9c0ef7486e1761"
 metafile = true
 
 [[files]]
+file = "mods/quickstack.pw.toml"
+hash = "c6423eeef60aacad291b03c9b348e10e9243ffa317ccc0feeeadc08cb08316c5"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
