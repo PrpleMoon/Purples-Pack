@@ -1,13 +1,13 @@
 name = "BetterVanillaBuilding"
-filename = "BetterVanillaBuildingV2.98.zip"
+filename = "BetterVanillaBuildingV3.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/LBcosBrl/versions/2Yk85eRT/BetterVanillaBuildingV2.98.zip"
+url = "https://cdn.modrinth.com/data/LBcosBrl/versions/CPLrzTQx/BetterVanillaBuildingV3.0.zip"
 hash-format = "sha1"
-hash = "bf6d44362e14171b2379253dbc5a30bdd0e16c5f"
+hash = "a8540579b5ccf7345f635c1f02ec341b718a3a3f"
 
 [update]
 [update.modrinth]
 mod-id = "LBcosBrl"
-version = "2Yk85eRT"
+version = "CPLrzTQx"

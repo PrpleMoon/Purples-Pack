@@ -1,13 +1,13 @@
 name = "Break Free"
-filename = "breakfree-1.2.0.jar"
+filename = "breakfree-1.3.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Xlr5lMDF/versions/n2FrxATJ/breakfree-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/Xlr5lMDF/versions/y2bggcMX/breakfree-1.3.0.jar"
 hash-format = "sha1"
-hash = "1fafa493e91cc7d006f2e6c71049edcf5adb058c"
+hash = "2e78f007c2f716f642731d954bd5945806795367"
 
 [update]
 [update.modrinth]
 mod-id = "Xlr5lMDF"
-version = "n2FrxATJ"
+version = "y2bggcMX"
