@@ -1,13 +1,13 @@
 name = "AutoSwitch"
-filename = "autoswitch-9.0.1.jar"
+filename = "autoswitch-9.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uSdcnlts/versions/XZJYgzfx/autoswitch-9.0.1.jar"
+url = "https://cdn.modrinth.com/data/uSdcnlts/versions/N7nwc5NX/autoswitch-9.1.1.jar"
 hash-format = "sha1"
-hash = "9ca02f484e1ba516bb69939f3ffa3c8c4fd49057"
+hash = "7abb0096d0b0bedd217fb6c653b5d884d74737bd"
 
 [update]
 [update.modrinth]
 mod-id = "uSdcnlts"
-version = "XZJYgzfx"
+version = "N7nwc5NX"

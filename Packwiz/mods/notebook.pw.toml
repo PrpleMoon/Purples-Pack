@@ -1,13 +1,13 @@
 name = "Vanilla Notebook "
-filename = "Notebook-4.0.2.jar"
+filename = "Notebook-4.0.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/KaKEuH9Q/versions/64ReLec9/Notebook-4.0.2.jar"
+url = "https://cdn.modrinth.com/data/KaKEuH9Q/versions/EWxKqPpR/Notebook-4.0.5.jar"
 hash-format = "sha1"
-hash = "07f018789d6b191ea93fb8ab893434a4d0cd5e1f"
+hash = "5668f7b3d62c81a0429d8596d5cd710fdbcee791"
 
 [update]
 [update.modrinth]
 mod-id = "KaKEuH9Q"
-version = "64ReLec9"
+version = "EWxKqPpR"

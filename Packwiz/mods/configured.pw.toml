@@ -1,13 +1,13 @@
 name = "Configured"
-filename = "Configurable-mc1.21-v1.3.1.jar"
-side = "server"
+filename = "configured-fabric-1.21-2.5.0.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HlpEBg3R/versions/LRyJf84a/Configurable-mc1.21-v1.3.1.jar"
 hash-format = "sha1"
-hash = "5af7f7bb1b61e2d10943050ade7092c89a7e371b"
+hash = "fec901027ce6fc38e54b9ab1b0a4ba156f415491"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "HlpEBg3R"
-version = "LRyJf84a"
+[update.curseforge]
+file-id = 5441234
+project-id = 457570
