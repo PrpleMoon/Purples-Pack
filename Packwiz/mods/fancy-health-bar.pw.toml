@@ -1,0 +1,13 @@
+name = "Fancy Health Bar"
+filename = "FancyHealthBar-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/d5wz0u1I/versions/1sQWrhEs/FancyHealthBar-1.1.0.jar"
+hash-format = "sha1"
+hash = "15dc3b9e0caf1205fcf95d999efadcf82b2af503"
+
+[update]
+[update.modrinth]
+mod-id = "d5wz0u1I"
+version = "1sQWrhEs"
