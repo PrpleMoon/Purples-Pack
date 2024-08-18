@@ -749,33 +749,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
 metafile = true
-
-[[files]]
-file = "resourcepacks/bettervanillabuilding-x-freshanimations.pw.toml"
-hash = "3e0add9fed1ce6cd3fe4bd767e843efe20a15decb2c4bc27d3e1be02ea07dac7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bettervanillabuilding.pw.toml"
-hash = "922614d9a51809bb48bbcaef9a448065290fc1b785ba24999aff851b6ca80155"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bvb-eating-animation.pw.toml"
-hash = "cbf5b8dc46e18b9dc2e4847f3e3a83aacee3c50ae14b585af9c22f99bb328f14"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
-metafile = true
-
-[[files]]
-file = "resourcepacks/sign+.pw.toml"
-hash = "cf6712a311c070f7d5683bac8dd62b505c6e167d8d4c62ffbfcc7cad78f1902b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/snowy-mountains-sky.pw.toml"
-hash = "bb5f64a0debf4c3fe4711f599fa6b10103be4fb123f67c42c1296f1bef02c011"
-metafile = true
