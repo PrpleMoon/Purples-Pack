@@ -744,11 +744,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
 metafile = true
-
-[[files]]
-file = "refresh.bat"
-hash = "ff44a16b83112ffb0f91717a9a37e3ca4338b68aa4a6661f183ce35fef718c84"
-
-[[files]]
-file = "update.bat"
-hash = "a83d2356a118fba8dc78c508f54cdad3d7d830cc6642c265a1ef333ba78464ea"
