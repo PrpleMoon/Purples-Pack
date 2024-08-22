@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "0543bf0e7d7ac48e221c7e97b55ca7add1c8a1a4b9c5d487688782472fe287b9"
+hash = "611dd38f46108493b1d0b63cb3580d522b42d43e6680ab07de74f51224e18a10"
 metafile = true
 
 [[files]]
@@ -242,22 +242,22 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "86e971b1f82d63c791f7e7574c0ebfc9d1e4b6a23085257599ded29ed365ce6c"
+hash = "e8cf1bd4eb13233ca3d3bcef35a78976552c89b52d56ece96c5179b1c0188473"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f1cfb6d5b1aeae9d349d909fc3170f60332b6347493543a2e4f1f0801f4a5d4d"
+hash = "8078e4d71da6ead36a6134ba3f5f0b90b53ba6466a176986a644bee3f6c2da5c"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b2af1699d567294bf20e80fd62069f65aca68746a78655984d30332b65ebd5a4"
+hash = "3508403607f441ed70fe3eff44c5095a74df189887fd1a67f6fbcbc2cbe7c458"
 metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "323ddd3511c5cb5a327d377cf571fae7644fede064024b7cca977bdbf5bbe080"
+hash = "46001d73e3e62245d35d0119c02b4f76d9bb701da3cf3ff36ab21cacff3fbab3"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "fb9771f28f1fb92ff6b6e049ce18c458f679351a782143c18407fba8546d066e"
+hash = "9ee3f572f67b4387198f29409c29df8f2b4cc76b3c09645ce84fa06ac88dc3e6"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancy-health-bar.pw.toml"
-hash = "5abcc2cbd6b4bad361c69b6cb24f710cc75f2aa87e3b55196ddcabea8b99c019"
+hash = "678d358141301c408c43de2a84dcefbf3d056afe40bfb12d36ab6a9969e9d111"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/firorize.pw.toml"
-hash = "431f17ce71b105ec0989f94c6ab92b372b2b15d2ff745b82c5be0ad805c971ca"
+hash = "dc3740cff06c89f6d96a64eb2b7135b535b1d4845d6900153581b172da34ab21"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "702034dbed70640cc6a634dd2387264aa5beb77fceecc918a4ad68acbdd52cf1"
+hash = "f3b85761b078d82f78acc2eb7dc490b3b70d25c304eb9af9dcd553ba796f7559"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dbbb0c37de081adf5572cf96f1b97bf4243c68073061adcded0636f3e42a0f75"
+hash = "acbf91d168a44a87e5e4993d403d834e1430810b590e8a404693cd046bd924e4"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "7c3df75b5426d2e37295adc850179244902cb93208b2232b254d36853e18ba82"
+hash = "4b42d246142aabef3c1aeb75e1401ca82c3e76b6467993ff3991dc976e7166e4"
 metafile = true
 
 [[files]]
@@ -486,13 +486,8 @@ hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "5c19a3fa886d36fd32ee8434b7948972329b96fa1f4064d8beadae832f168654"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "8221d0376bdd5c13684d44ce2dcfc994f4aeea8d21546b9a562e71517ba1ce80"
+hash = "c7c101be06ad509eb7d2d2459419524b6814152546d59e0f7608b22a0d066ad9"
 metafile = true
 
 [[files]]
@@ -502,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "a026db230f816e25fed08d63f0ba7c55d849dfdcda3c76c71bf42f956172f3bb"
+hash = "e722e83ce843f9fc841f896de747e3590dcd1faa81aba8a73c8b0df7914a48b3"
 metafile = true
 
 [[files]]
@@ -562,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpgtitles.pw.toml"
-hash = "9101388e21d0e60ce080d7f5ee53800c4343f877076351d41f66c5d01ec0e5c0"
+hash = "85bc0b9ad221c045594beffa4d0b95828ad81dedc9b562feaac2dda4e2080a31"
 metafile = true
 
 [[files]]
@@ -617,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "69cb00474c1057e649a4ccf697a70873e722c93751fc1b94815dab767d7a2f94"
+hash = "d5a801fd52c696bdd082f96c2f8f7fa78e9fb5fb6b7c110fed42604b37058b46"
 metafile = true
 
 [[files]]
@@ -702,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "f474df1d652f6286874e95c4b754e59b52b84b12afe2e3c9162a42344426a852"
+hash = "3942461204beae8e1876528bb2fbfbaed242dec40f46bc89ee5ab1e74a4f0985"
 metafile = true
 
 [[files]]
@@ -749,3 +744,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
 metafile = true
+
+[[files]]
+file = "refresh.bat"
+hash = "ff44a16b83112ffb0f91717a9a37e3ca4338b68aa4a6661f183ce35fef718c84"
+
+[[files]]
+file = "update.bat"
+hash = "a83d2356a118fba8dc78c508f54cdad3d7d830cc6642c265a1ef333ba78464ea"

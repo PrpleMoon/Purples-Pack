@@ -3,11 +3,11 @@ filename = "rpgtitles-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/42mo3jdC/versions/QkFmzfGD/rpgtitles-1.4.0.jar"
+url = "https://cdn.modrinth.com/data/42mo3jdC/versions/JQ9mZydk/rpgtitles-1.4.0.jar"
 hash-format = "sha1"
-hash = "cd24e149f86713bfa4f3ef74fe76e98e96b5ad72"
+hash = "5a15f0c7b4d7e85542fedd8d29675843d9885a8b"
 
 [update]
 [update.modrinth]
 mod-id = "42mo3jdC"
-version = "QkFmzfGD"
+version = "JQ9mZydk"
