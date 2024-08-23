@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
+hash = "fd0ee9e018a4e817cd5f872b4cd2958b83156022ec75f1560aaf1f8f09de7e29"
 metafile = true
 
 [[files]]
@@ -398,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "fd77358f512f332ee2113e5fd9d8929ff9fc5952c78f3693c98e27b0de77fef9"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "12949e5cebf7512c379d2318d662d84b044c835fa21e8150c3298503e73b69da"
 metafile = true
 
 [[files]]
@@ -512,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "73c3c433ee311338d552ba16548f3002ad6c7f781d1051ae3ae41a1803518d27"
+hash = "05b5840b99e989b497cb9a5faacdc1164d9f5f752863963605f0f82feb42217d"
 metafile = true
 
 [[files]]
@@ -528,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "5bef9a443c12a13d5eeefa60bbb0a40ef99ab8a0675cd335a6cc2520dc5ba33b"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "a5bd474bdf1be1c1ca209182bf7102a2e869fb37ecfa758e03f375f6d18e600c"
 metafile = true
 
 [[files]]
@@ -597,12 +607,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "28f2167da063c1be7b1f4e534cdcbb446daa569cc32ffe1c0705663a9a06a5b9"
+hash = "a31b71f410616ddc3e99c70744e35d0640eb94ff081af70d1054689f34c2b4b6"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
+hash = "d24ad43869dfe068c041cc7da0a7ed5926f742d1676eb765ad66515e1e9568a6"
 metafile = true
 
 [[files]]
