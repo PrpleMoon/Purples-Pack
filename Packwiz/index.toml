@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
+hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
 
 [[files]]
@@ -506,6 +506,11 @@ hash = "e722e83ce843f9fc841f896de747e3590dcd1faa81aba8a73c8b0df7914a48b3"
 metafile = true
 
 [[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "595baa2bb72f3af291c3e5afae919db7f26e4f7e2d73aea527fce947b861376c"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "d8d16415897778ba9e6bf5cd74920edce456787f48c4e8fc6e2aa1d17fdffdc7"
 metafile = true
@@ -552,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
+hash = "17518c4d04f490c0df697b6c796fd7d81025271dc1b151091b20c81c71e8bd4a"
 metafile = true
 
 [[files]]
@@ -573,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "889edc675f06b043edb5c8d7a797cba7895161a023711dcf9c4120453d9deead"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
 metafile = true
 
 [[files]]
@@ -662,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/toggle-item-frames.pw.toml"
-hash = "6ff983f1d7faaa2df3704c9aa4027d89141cce29bddc3ab75d9a1d28644a23b3"
+hash = "8f2634b93ff29e59db26c5001b3052675250332a4579c5f75fa82fa901ab6883"
 metafile = true
 
 [[files]]
@@ -732,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2e1e83a8e998d5f8ec3f8f2346e24ba99b828ff90a3ed26eef56ec989e44f668"
+hash = "55e69d0628ce791c677bc82e664f5df7ffa4cebc4f0860a5ce665a1d47cd9d7e"
 metafile = true
 
 [[files]]
