@@ -1,13 +1,13 @@
 name = "Enchantment Lore"
-filename = "enchantment-lore-1.4.0+MC1.21.jar"
+filename = "enchantment-lore-1.4.1+MC1.21-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YHdR6hMt/versions/s7dKBvJy/enchantment-lore-1.4.0%2BMC1.21.jar"
+url = "https://cdn.modrinth.com/data/YHdR6hMt/versions/VokviPBx/enchantment-lore-1.4.1%2BMC1.21-1.21.1.jar"
 hash-format = "sha1"
-hash = "95fbdde64b7e32fadb4fd7c23e1943407c446673"
+hash = "c39e376a388dad8f329ec82f249dfe27a8c5b585"
 
 [update]
 [update.modrinth]
 mod-id = "YHdR6hMt"
-version = "s7dKBvJy"
+version = "VokviPBx"
