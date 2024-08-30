@@ -556,6 +556,11 @@ hash = "48742bf742f133cbd890a7800e916aa39c6058552a33fa6c2115986084e82aed"
 metafile = true
 
 [[files]]
+file = "mods/reactive-music.pw.toml"
+hash = "3dca9aab9b557bc9ffe84d850d575c2da3b623db8e055d98946e98c4e4eafb71"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17518c4d04f490c0df697b6c796fd7d81025271dc1b151091b20c81c71e8bd4a"
 metafile = true
