@@ -326,6 +326,11 @@ hash = "8bb5b5695810c5f5eb27a4e1890db7492ec4ad0c6efe95e713f694aa017e640d"
 metafile = true
 
 [[files]]
+file = "mods/harvest.pw.toml"
+hash = "9bd95b6442bdcce851ee09cfd90fd36ce5ad1303c3f2d38a4dfdeabf620a26df"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "88d504ca7157466de1a296c456a95e20412bf14bec48e606499fe3319a9ddbab"
 metafile = true
@@ -583,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "c456b8055d6c39599b74d1ef518cd83892b3055bd283fc0aae78cf6899f5f146"
 metafile = true
 
 [[files]]
