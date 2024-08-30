@@ -51,11 +51,6 @@ hash = "aa0178455bd9f2b3c3019a62cfb53a9be74c63ae2121eb4a158b6a686d0c84e4"
 metafile = true
 
 [[files]]
-file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "2c4b63964b42d3a670841dcdcef38f4df0170aa89442ba58aa5067edaeb5279e"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "eff006789cdd400f7a5fa60485270a0aee77c5947ac056fdb2ddcd43017612d0"
 metafile = true
