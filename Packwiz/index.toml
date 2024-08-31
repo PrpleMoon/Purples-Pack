@@ -561,11 +561,6 @@ hash = "3dca9aab9b557bc9ffe84d850d575c2da3b623db8e055d98946e98c4e4eafb71"
 metafile = true
 
 [[files]]
-file = "mods/real-camera.pw.toml"
-hash = "99887d6f590724f19bf73995a5583ab380f4bdc830c85d09c56a4a3609927fa5"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17518c4d04f490c0df697b6c796fd7d81025271dc1b151091b20c81c71e8bd4a"
 metafile = true
