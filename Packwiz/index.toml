@@ -561,6 +561,11 @@ hash = "3dca9aab9b557bc9ffe84d850d575c2da3b623db8e055d98946e98c4e4eafb71"
 metafile = true
 
 [[files]]
+file = "mods/real-camera.pw.toml"
+hash = "99887d6f590724f19bf73995a5583ab380f4bdc830c85d09c56a4a3609927fa5"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17518c4d04f490c0df697b6c796fd7d81025271dc1b151091b20c81c71e8bd4a"
 metafile = true
@@ -621,6 +626,11 @@ hash = "e0ee5007c3ae390876ea5c2c7ed28c37e13fa848fb4c717dc8bb8889d3cbf67d"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "bdc4829f44001a1af38cae5be7c0ef426cf09a8a0df846f81b9ab26d09b64ad4"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "0c361f43537d445ba78c4569f214b35490bb315ba928be861f84805a3bc44a60"
 metafile = true
@@ -653,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/spawn-animations.pw.toml"
 hash = "61e88480a7df95b00cae33f2dec5eadadd96ba4d68e2536ca036584495961a4f"
+metafile = true
+
+[[files]]
+file = "mods/stack-to-nearby-chests.pw.toml"
+hash = "f5f48d206d75040afe4e65ce7f9459f9ffffda8a0ebc1ad1a90b623fd3cde529"
 metafile = true
 
 [[files]]
@@ -697,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-refresh.pw.toml"
-hash = "d99aa3a99a7abf8038c9c91c0db9f6bdb5240d0bc2239a7f0c5447a7b4f7b3a3"
+hash = "b59082ce7f5c5af9f6e11a4aa3197d70e454a4f820669eb6c7f588efda0ad9f4"
 metafile = true
 
 [[files]]
