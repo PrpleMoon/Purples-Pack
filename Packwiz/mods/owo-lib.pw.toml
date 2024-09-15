@@ -1,13 +1,13 @@
 name = "oωo (owo-lib)"
-filename = "owo-lib-0.12.11+1.21.jar"
+filename = "owo-lib-0.12.13+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/AVkXApBi/owo-lib-0.12.11%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/8emxtz6T/owo-lib-0.12.13%2B1.21.jar"
 hash-format = "sha1"
-hash = "fdd29fa21091896f11de75f30591f62df7213175"
+hash = "82dcf55e4b0e0c7fc0f888b264127584ff690417"
 
 [update]
 [update.modrinth]
 mod-id = "ccKDOlHs"
-version = "AVkXApBi"
+version = "8emxtz6T"
