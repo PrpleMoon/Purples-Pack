@@ -1,0 +1,13 @@
+name = "Auditory Continued"
+filename = "auditory-0.0.7-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UafsfA4K/versions/3jadriG3/auditory-0.0.7-1.21.jar"
+hash-format = "sha1"
+hash = "24f7d5ee7d7e8b9b6c15f5580086dce69c01a079"
+
+[update]
+[update.modrinth]
+mod-id = "UafsfA4K"
+version = "3jadriG3"
