@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "3e9b8a428cc98628ba25037c48f0ff82e35b271ece3a95e6208049604c16af9f"
+hash = "147d49f6d81eb9b09a097d2af85b8c8bf3a348743dc075bcc52faf3b4e800123"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "ba9ef97f3684ea70f21d1e89af3a0140e3b3ed64afbdb8e51a965ef0a8cc01da"
+hash = "50d3d0cdf0a984d3f45e47ee7bc6bd77980e96c792e7c74fddb0d3840edc4c27"
 metafile = true
 
 [[files]]
@@ -471,6 +471,11 @@ hash = "cc112c52d14d6c5fee5bcc67ec9b4bd928c03f28a13e9881fe439918c0b53cb5"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "4aabdd45450a1475873d38bb8de88bf4e6fc7467a9a1b10fdd1bb80f0842ce17"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "7d1a2009e73a857e56c3c14ef809fa4624c0ac53a3760dd337aa09a7f2bc1dca"
 metafile = true
@@ -512,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "b970013f28c20defc3fd24994c713776874cb12a496a755153df504619efa5d4"
+hash = "e88ac97ed8496e2cc82735911e83c75df457693351e3b749dbdf13825c466385"
 metafile = true
 
 [[files]]
@@ -522,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "70cd733bdba0662b93fb75578e1b9e1e9bbcce246cf97fcfae407bf074ff8ab8"
+hash = "adf7d24d151493401d0a082d86c36d04829727a696a3302c93f5026c19faa4cc"
 metafile = true
 
 [[files]]
@@ -572,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "bd8bce6d875a0cdb5a793202a9da9d715164bc9c88ee144aa4bf9b44fec0aa56"
+hash = "2390452b633288cbfff659123a0948fe00829c09df625a3e988857b60a40f1b4"
 metafile = true
 
 [[files]]
@@ -597,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "078e1b39b6bcf173c3342f2788a865e1fc4bb53c8ccb094e55d5672a8d8b0295"
+hash = "f21b5a54d21a973d3d4e67019b5a9a6af786bd6a23676c851cdbbde01aac69d0"
 metafile = true
 
 [[files]]
@@ -716,6 +721,11 @@ hash = "537ce9a516eaadc60b7498677f30ab1e2fe857a25a36e247f9cd11c565cd895a"
 metafile = true
 
 [[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "43c56c0e15a459162eb4acbc0334f544badf9be44638a6f4d506f702898d6569"
+metafile = true
+
+[[files]]
 file = "mods/toggle-item-frames.pw.toml"
 hash = "396f20ebd7de85729585c156a08356282addd011d04a13ca6e130dfe82f0e7e2"
 metafile = true
@@ -808,4 +818,24 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bettervanillabuilding.pw.toml"
+hash = "922614d9a51809bb48bbcaef9a448065290fc1b785ba24999aff851b6ca80155"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bvb-eating-animation.pw.toml"
+hash = "941242a5653dc6d9dddf83c678382102068af664032c8d578764597d562bb765"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/more-mob-variants-fresh-animations-addon.pw.toml"
+hash = "b0da0af7b27f12d4b867d24fc4d0918892f7be95edb528be1bf6c98ca3bd5ad5"
 metafile = true
