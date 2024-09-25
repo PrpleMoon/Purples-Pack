@@ -146,6 +146,11 @@ hash = "8c3342aeba36b5ff34c10f0ad6c13bbeb7ea4f040683aba80e83776697ceda0d"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "da4f0d277bd0dd7137f79b3faa5f19e7d16f5352a6ed2d2d6a4789621c3492ea"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
@@ -383,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e16a6442391c1989dccdcbe100e13063a043caef70b13ab4e37a11a7861cb497"
+metafile = true
+
+[[files]]
+file = "mods/jsonem.pw.toml"
+hash = "40a995919eb0cb7db22533c0255a498536f0cb4e7201edf324aeba19425cde4d"
 metafile = true
 
 [[files]]
@@ -818,11 +828,6 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bettervanillabuilding.pw.toml"
-hash = "922614d9a51809bb48bbcaef9a448065290fc1b785ba24999aff851b6ca80155"
 metafile = true
 
 [[files]]
