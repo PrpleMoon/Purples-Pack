@@ -6,6 +6,11 @@ hash = "0d8b0146b74be36014bf5d76487703f4aa13b24416a2ac79fc300d90c5754206"
 metafile = true
 
 [[files]]
+file = "mods/allow-portal-guis.pw.toml"
+hash = "e69e4f7a6814fbe208dab0cb1a2f0e6ccf20f11793479ccae0d53fa0ae853b51"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "611dd38f46108493b1d0b63cb3580d522b42d43e6680ab07de74f51224e18a10"
 metafile = true
@@ -117,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "147d49f6d81eb9b09a097d2af85b8c8bf3a348743dc075bcc52faf3b4e800123"
+hash = "53ee326e24bd8d6c2f1f6b4aa1f5256c0821fe0b9793d800e7e45d0f4c8a019c"
 metafile = true
 
 [[files]]
@@ -132,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/chest-tracker.pw.toml"
-hash = "eb39d96134714bd92b0234aeffd91e474e949d7bff66adb35944a50038ce2d35"
+hash = "e4abeac33e038de6a05197da1141aecb9d9b4e3ea3c09c3e3a30a7dbad1dfb94"
 metafile = true
 
 [[files]]
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "da4f0d277bd0dd7137f79b3faa5f19e7d16f5352a6ed2d2d6a4789621c3492ea"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "36a2d1e7cbf15c70c1c658ffed9780aece92d1d11df978ba6c4dd56f0cf69c09"
 metafile = true
 
 [[files]]
@@ -263,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "f43d75e5464045610e79a4c3bd4ff7d982aa161a2758998e073def396ee5e176"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "fcc29f75675fc7a727778a0d1400544084d26ff560a691d56ff66138121485ce"
 metafile = true
 
 [[files]]
@@ -451,6 +466,11 @@ hash = "f3b85761b078d82f78acc2eb7dc490b3b70d25c304eb9af9dcd553ba796f7559"
 metafile = true
 
 [[files]]
+file = "mods/map-tooltip.pw.toml"
+hash = "7903d3643dbbb226096f732adc21013e24f7fddf205e1163c47df1705e1cefa2"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -477,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cc112c52d14d6c5fee5bcc67ec9b4bd928c03f28a13e9881fe439918c0b53cb5"
+hash = "ec32575f6f9d0a3a6697c7249225a5db6e9c9cae8f67a4860c467728d346216d"
 metafile = true
 
 [[files]]
@@ -527,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "e88ac97ed8496e2cc82735911e83c75df457693351e3b749dbdf13825c466385"
+hash = "665d5fd80ae9167ab56a91ab600b5d9205bf5d974a26137c3da66ddc84869e7d"
 metafile = true
 
 [[files]]
@@ -548,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "695ddf149004a3755dbd34c655e96407d52b6e74c8fce70bdd19d2207fd63a71"
+metafile = true
+
+[[files]]
+file = "mods/particle-tweaks.pw.toml"
+hash = "8219f4625f3ea525efedfb27cac3b9348e85c87661f520d9ddb599ebfa28e8bd"
 metafile = true
 
 [[files]]
@@ -572,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "36268eb18499a2ef4ce8b7b4a0a46281b352b7081637b427f73c3df8bfc5b846"
+hash = "60024a32408ab2f08af089ea065293101a2d2b0c100c141f9cfaf5869d9df4c6"
 metafile = true
 
 [[files]]
@@ -607,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "b5628281ea74a3531a8211cbaa81d85980c66ad6f69ecebcd92b2344427e6b56"
+hash = "1e46578b805509863e0fdb4525f0082d21df6407fa0faff924bcbad8be98836b"
 metafile = true
 
 [[files]]
@@ -692,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "24ca44f204ce1904fa79e0fab79c101831716b3197a726f71abf6e5d3e621f80"
+hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
 metafile = true
 
 [[files]]
@@ -782,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "3942461204beae8e1876528bb2fbfbaed242dec40f46bc89ee5ab1e74a4f0985"
+hash = "3c72e3d1035ad2f1c8525177e11cb9e6666a09d599d49099503cbdf81a202cef"
 metafile = true
 
 [[files]]
