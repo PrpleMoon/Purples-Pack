@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/chest-tracker.pw.toml"
-hash = "e4abeac33e038de6a05197da1141aecb9d9b4e3ea3c09c3e3a30a7dbad1dfb94"
+hash = "4a7803b00f9c84fb67d86b1e37388a6847b022e5ed099b3fe7fd6668dbf11975"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "60024a32408ab2f08af089ea065293101a2d2b0c100c141f9cfaf5869d9df4c6"
+hash = "5f5ef0acc77aab702144303babbf28aca3d894f4eb9e87de148491d5c44ee234"
 metafile = true
 
 [[files]]
@@ -771,13 +771,18 @@ hash = "6eb9bf6a42f5eabb2195e1f2cad1003bf60773c16139ff59e46dd33a3eee37d5"
 metafile = true
 
 [[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "d4b0cf061e4ff370e5bd22d395a437af7cea6cb09f71cc4fbf9337dc5432220a"
+metafile = true
+
+[[files]]
 file = "mods/ukulib.pw.toml"
 hash = "15faabfc6821dcf0800c3853e2b482970dc5531918288444bda24a720fe8d7ac"
 metafile = true
 
 [[files]]
 file = "mods/vanilla-refresh.pw.toml"
-hash = "54e9906e3ca0eb18997c7973304f206ce99d8d6f7446d0ab19df5cd34f94c95d"
+hash = "3e6d4db90a317fa2772bbf66cbd0cc479c69f0f1396e2e9e028f7df93f87e6fa"
 metafile = true
 
 [[files]]
